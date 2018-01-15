@@ -1,0 +1,4 @@
+﻿  RayTracer.cpp
+c:\users\corma\source\repos\raytracer\raytracer\vec3.h(82): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\corma\source\repos\raytracer\raytracer\raytracer.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracer.vcxproj -> C:\Users\corma\source\repos\RayTracer\Debug\RayTracer.exe
