@@ -1,9 +1,10 @@
-﻿  Sphere.cpp
+﻿  RayTracer.cpp
 c:\users\corma\source\repos\simpleraytracer\raytracer\vec3.h(84): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\corma\source\repos\simpleraytracer\raytracer\sphere.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  HitableList.cpp
-c:\users\corma\source\repos\simpleraytracer\raytracer\vec3.h(84): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\corma\source\repos\simpleraytracer\raytracer\hitablelist.cpp(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  Generating Code...
-x64\Debug\HitableList.obj : warning LNK4042: object specified more than once; extras ignored
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(30): warning C4305: 'argument': truncation from 'unsigned __int64' to 'float'
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
   RayTracer.vcxproj -> C:\Users\corma\source\repos\SimpleRayTracer\x64\Debug\RayTracer.exe

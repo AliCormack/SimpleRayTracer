@@ -6,9 +6,9 @@ bool Sphere::hit(const Ray& r, float tmin, float tmax, hit_record& rec) const
 	// quadratic equation
 	vec3 oc = r.origin() - center;
 	float a = dot(r.direction(), r.direction());
-	float b = 2.0 * dot(oc, r.direction());
+	float b = dot(oc, r.direction());
 	float c = dot(oc, oc) - radius * radius;
-	float disc = b * b - 4 * a*c;
+	float disc = b * b - a*c;
 
 	if (disc > 0)
 	{
