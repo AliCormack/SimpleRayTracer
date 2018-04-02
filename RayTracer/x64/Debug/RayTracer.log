@@ -3,9 +3,10 @@ c:\users\corma\source\repos\simpleraytracer\raytracer\vec3.h(84): warning C4244:
 c:\users\corma\source\repos\simpleraytracer\raytracer\camera.h(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\corma\source\repos\simpleraytracer\raytracer\camera.h(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\corma\source\repos\simpleraytracer\raytracer\camera.h(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(20): warning C4305: 'argument': truncation from 'unsigned __int64' to 'float'
-c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(41): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(34): warning C4305: 'argument': truncation from 'unsigned __int64' to 'float'
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\corma\source\repos\simpleraytracer\raytracer\raytracer.cpp(56): warning C4305: 'argument': truncation from 'double' to 'float'
+x64\Debug\HitableList.obj : warning LNK4042: object specified more than once; extras ignored
   RayTracer.vcxproj -> C:\Users\corma\source\repos\SimpleRayTracer\x64\Debug\RayTracer.exe
